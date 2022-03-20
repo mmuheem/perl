@@ -1,8 +1,8 @@
 #!/usr/bin/perl
 =begin comment
 
-Description: Simple script to print statment.
-Author: Malik Muheem.
+Description: Simple script to print statment
+Author: Malik Muheem
 
 =end comment
 =cut
