@@ -3,6 +3,7 @@
 
 Description: Simple script to print statment
 Author: Malik Muheem
+E-mail: mmm2603@gmail.com
 
 =end comment
 =cut
