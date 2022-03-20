@@ -13,7 +13,7 @@ use warnings;
 
 sub main() {
 	my $name = "Malik Muheem";
-	print "Hello ".$name." welcome to Perl class!\n"; # dot is used for string concatenation. 
+	print "Hello ".$name." welcome to Perl class!\n"; # dot (.) is used for string concatenation. 
 }
 
 main();
